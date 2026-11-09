@@ -1,0 +1,3 @@
+N=39213; expected=768849291; output=Sum from 1 to 39213 = 768849291; PASS=True
+N=84494; expected=3569660265; output=Sum from 1 to 84494 = 3569660265; PASS=True
+N=22820; expected=260387610; output=Sum from 1 to 22820 = 260387610; PASS=True
